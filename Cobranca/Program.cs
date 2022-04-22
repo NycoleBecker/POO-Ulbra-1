@@ -1,4 +1,4 @@
-﻿using System;
+﻿using Cobranca.Controllers;
 
 namespace Cobranca
 {
@@ -6,7 +6,9 @@ namespace Cobranca
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ClienteCobrancaController ccc = new ClienteCobrancaController();
         }
     }
 }
+
+   

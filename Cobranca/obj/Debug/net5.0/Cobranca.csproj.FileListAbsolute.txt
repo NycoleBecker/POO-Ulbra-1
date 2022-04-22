@@ -1,0 +1,16 @@
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\bin\Debug\net5.0\Cobranca.exe
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\bin\Debug\net5.0\Cobranca.deps.json
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\bin\Debug\net5.0\Cobranca.runtimeconfig.json
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\bin\Debug\net5.0\Cobranca.runtimeconfig.dev.json
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\bin\Debug\net5.0\Cobranca.dll
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\bin\Debug\net5.0\ref\Cobranca.dll
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\bin\Debug\net5.0\Cobranca.pdb
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\obj\Debug\net5.0\Cobranca.csproj.AssemblyReference.cache
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\obj\Debug\net5.0\Cobranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\obj\Debug\net5.0\Cobranca.AssemblyInfoInputs.cache
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\obj\Debug\net5.0\Cobranca.AssemblyInfo.cs
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\obj\Debug\net5.0\Cobranca.csproj.CoreCompileInputs.cache
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\obj\Debug\net5.0\Cobranca.dll
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\obj\Debug\net5.0\ref\Cobranca.dll
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\obj\Debug\net5.0\Cobranca.pdb
+C:\Users\banan\Desktop\ULBRA\2022-1\POO-Ulbra-1\Cobranca\obj\Debug\net5.0\Cobranca.genruntimeconfig.cache
